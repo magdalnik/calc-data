@@ -26153,7 +26153,7 @@
           "humidityZoneSource": "list"
         },
         {
-          "name": "Вяземская",
+          "name": "Вяземский",
           "climate": {
             "tColdSut_098": -33,
             "tColdSut_092": -31,

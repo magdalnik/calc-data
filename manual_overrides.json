@@ -3,6 +3,35 @@
     "snow": "III",
     "snowLoad": 1.5,
     "wind": "III",
+    "windLoad": 0.38,
+    "wetZone": "normal"
+  },
+  "хабаровский край|вяземская": {
+    "wetZone": "normal",
+    "snow": "II",
+    "snowLoad": 1,
+    "wind": "III",
     "windLoad": 0.38
+  },
+  "хабаровский край|вяземский": {
+    "wetZone": "normal",
+    "snow": "II",
+    "snowLoad": 1,
+    "wind": "III",
+    "windLoad": 0.38
+  },
+  "хабаровский край|нелькан": {
+    "snow": "III",
+    "snowLoad": 1.5,
+    "wind": "III",
+    "windLoad": 0.38,
+    "wetZone": "normal"
+  },
+  "хабаровский край|гвасюги": {
+    "snow": "III",
+    "snowLoad": 1.5,
+    "wind": "III",
+    "windLoad": 0.38,
+    "wetZone": "normal"
   }
 }
